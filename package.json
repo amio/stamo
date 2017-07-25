@@ -1,0 +1,17 @@
+{
+  "name": "stamo",
+  "version": "1.0.0",
+  "description": "Lightweight Status Monitor",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "nedb": "^1.8.0",
+    "node-schedule": "^1.2.3"
+  }
+}
